@@ -1609,7 +1609,8 @@
         "dependencies": {
           "Domain": "1.0.0",
           "FluentValidation.DependencyInjectionExtensions": "12.1.1",
-          "MediatR": "14.0.0"
+          "MediatR": "14.0.0",
+          "Microsoft.EntityFrameworkCore": "9.0.13"
         },
         "compile": {
           "bin/placeholder/Application.dll": {}
@@ -4569,23 +4570,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ziadi\\.nuget\\packages\\": {},
+    "C:\\Users\\Mega-PC\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ziadi\\OneDrive\\Desktop\\work\\2026\\CleanArchitecture&CQRS\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\Mega-PC\\OneDrive - Sandlist\\Bureau\\2026\\2026\\2026\\CleanArchitecture-CQRS\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "C:\\Users\\ziadi\\OneDrive\\Desktop\\work\\2026\\CleanArchitecture&CQRS\\Infrastructure\\Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\ziadi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ziadi\\OneDrive\\Desktop\\work\\2026\\CleanArchitecture&CQRS\\Infrastructure\\obj\\",
+      "projectPath": "C:\\Users\\Mega-PC\\OneDrive - Sandlist\\Bureau\\2026\\2026\\2026\\CleanArchitecture-CQRS\\Infrastructure\\Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\Mega-PC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Mega-PC\\OneDrive - Sandlist\\Bureau\\2026\\2026\\2026\\CleanArchitecture-CQRS\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ziadi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Mega-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4601,8 +4602,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\ziadi\\OneDrive\\Desktop\\work\\2026\\CleanArchitecture&CQRS\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\ziadi\\OneDrive\\Desktop\\work\\2026\\CleanArchitecture&CQRS\\Application\\Application.csproj"
+            "C:\\Users\\Mega-PC\\OneDrive - Sandlist\\Bureau\\2026\\2026\\2026\\CleanArchitecture-CQRS\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\Mega-PC\\OneDrive - Sandlist\\Bureau\\2026\\2026\\2026\\CleanArchitecture-CQRS\\Application\\Application.csproj"
             }
           }
         }
@@ -4617,7 +4618,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net9.0": {
@@ -4650,7 +4651,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
